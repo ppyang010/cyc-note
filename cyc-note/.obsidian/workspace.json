@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Java 开发者 Python 对照学习计划"
             }
+          },
+          {
+            "id": "01d4c604b67f9ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收藏知识库/Java vs Python 深度对照学习手册.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java vs Python 深度对照学习手册"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -156,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏知识库/Java 开发者 Python 对照学习计划.md",
+                "file": "收藏知识库/Java vs Python 深度对照学习手册.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Java 开发者 Python 对照学习计划 的大纲"
+              "title": "Java vs Python 深度对照学习手册 的大纲"
             }
           },
           {
@@ -194,10 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "65fbf4d19d06db5f",
+  "active": "01d4c604b67f9ec8",
   "lastOpenFiles": [
-    "收藏知识库/Obsidian通过github实现同步（Obsidian Git） - 知乎.md",
     "收藏知识库/Java 开发者 Python 对照学习计划.md",
+    "收藏知识库/Java vs Python 深度对照学习手册.md",
+    "收藏知识库/Obsidian通过github实现同步（Obsidian Git） - 知乎.md",
     "收藏知识库/Obsidian通过github实现同步（Obsidian Git）.md",
     "收藏知识库/(99+ 封私信 ",
     "收藏知识库/JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金.md",
@@ -206,7 +222,6 @@
     "2026-04-20.md",
     "未命名.base",
     "收藏知识库/🔥从聊天到干活：三分钟搞懂 LLM、Agent、RAG、Skill面试官-现在大家聊的 LLM、Agent、RAG、F - 掘金.md",
-    "未命名.md",
     "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
     "收藏知识库/Oh My Codex 快速使用指南 - 技术栈.md",
     "收藏知识库/Superpowers 详细用法教程.md",
