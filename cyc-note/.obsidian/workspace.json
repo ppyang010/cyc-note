@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "bd3b35c64ac2cd2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb80297a8447ef23",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65fbf4d19d06db5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "欢迎"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1165b3893d8d06f",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c864fe8de1fdcbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "557b8812d0b45049",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTime",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "7567d839a9289ff8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "ac9c1d289df5c591",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d5ab6ae076790d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2338c21896454633",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf2e4e8f0c9a5120",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "欢迎.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "欢迎 的反向链接列表"
+            }
+          },
+          {
+            "id": "6db069da71d5dbdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "欢迎.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "欢迎 的出链列表"
+            }
+          },
+          {
+            "id": "98f114895200ad61",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "93f78af90db1fc16",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "0da7b6c9a4371447",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "欢迎.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "欢迎 的大纲"
+            }
+          },
+          {
+            "id": "fea0efaa0df58752",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "65fbf4d19d06db5f",
+  "lastOpenFiles": [
+    "未命名1 1.base",
+    "欢迎.md",
+    "2026-04-20.md",
+    "未命名.base",
+    "收藏知识库/JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金.md",
+    "收藏知识库/🔥从聊天到干活：三分钟搞懂 LLM、Agent、RAG、Skill面试官-现在大家聊的 LLM、Agent、RAG、F - 掘金.md",
+    "未命名.md",
+    "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
+    "收藏知识库/Oh My Codex 快速使用指南 - 技术栈.md",
+    "收藏知识库/Superpowers 详细用法教程.md",
+    "未命名.canvas",
+    "收藏知识库",
+    "Clippings"
+  ]
+}
