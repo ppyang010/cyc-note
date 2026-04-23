@@ -25,14 +25,14 @@
             "id": "01d4c604b67f9ec8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "收藏知识库/Java vs Python 深度对照学习手册.md",
-                "mode": "preview",
-                "source": false
+                "aFile": "cyc-note/.obsidian/workspace.json",
+                "bFile": "cyc-note/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Java vs Python 深度对照学习手册"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           },
           {
@@ -185,13 +185,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏知识库/Java vs Python 深度对照学习手册.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Java vs Python 深度对照学习手册 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -205,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -225,9 +224,10 @@
   },
   "active": "01d4c604b67f9ec8",
   "lastOpenFiles": [
+    "收藏知识库/Java vs Python 深度对照学习手册.md",
+    "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
     "收藏知识库/Python 判空避坑：为什么必须用 is None 而非 == None.md",
     "收藏知识库/Java 开发者 Python 对照学习计划.md",
-    "收藏知识库/Java vs Python 深度对照学习手册.md",
     "收藏知识库/Text-to-SQL与智能问数完全指南：基本概念、核心原理、Python实战教学及企业项目落地-CSDN博客.md",
     "收藏知识库/Obsidian通过github实现同步（Obsidian Git） - 知乎.md",
     "收藏知识库/Obsidian通过github实现同步（Obsidian Git）.md",
