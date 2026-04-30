@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
+                "file": "收藏知识库/OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金"
+              "title": "OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金"
             }
           },
           {
@@ -223,11 +223,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fea0efaa0df58752",
+  "active": "01d4c604b67f9ec8",
   "lastOpenFiles": [
+    "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
     "收藏知识库/OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金.md",
     "收藏知识库/软件人员可以关注的 Skill，亲测确实不错，值得试一下.md",
-    "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
     "收藏知识库/Java vs Python 深度对照学习手册.md",
     "收藏知识库/Python 判空避坑：为什么必须用 is None 而非 == None.md",
     "收藏知识库/Java 开发者 Python 对照学习计划.md",
