@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金.md",
+                "file": "收藏知识库/节省Token的8种方案.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金"
+              "title": "节省Token的8种方案"
             }
           },
           {
@@ -225,9 +225,11 @@
   },
   "active": "01d4c604b67f9ec8",
   "lastOpenFiles": [
+    "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
+    "收藏知识库/节省Token的8种方案.md",
+    "收藏知识库/JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金.md",
     "收藏知识库/🔥从聊天到干活：三分钟搞懂 LLM、Agent、RAG、Skill面试官-现在大家聊的 LLM、Agent、RAG、F - 掘金.md",
     "收藏知识库/OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金.md",
-    "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
     "收藏知识库/软件人员可以关注的 Skill，亲测确实不错，值得试一下.md",
     "收藏知识库/Java vs Python 深度对照学习手册.md",
     "收藏知识库/Python 判空避坑：为什么必须用 is None 而非 == None.md",
@@ -236,7 +238,6 @@
     "收藏知识库/Obsidian通过github实现同步（Obsidian Git） - 知乎.md",
     "收藏知识库/Obsidian通过github实现同步（Obsidian Git）.md",
     "收藏知识库/(99+ 封私信 ",
-    "收藏知识库/JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金.md",
     "欢迎.md",
     "未命名1 1.base",
     "2026-04-20.md",

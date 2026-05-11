@@ -1,9 +1,9 @@
 ---
-Title: 节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金
+Title: 节省Token的8种方案
 Url: "https://juejin.cn/post/7628442107121598479?utm_source=gold_browser_extension"
-Author: 
-Origin: juejin.cn
-Description: 前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案，既能保留完整上下文记忆，又能省token？” 这位朋友的问题，恰恰戳中了当下AI应用开发最头疼的痛点。
+Author: 苏三说技术
+Origin: 掘金
+Description: "前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案，既能保留完整上下文记忆，又能省token？” 这位朋友的问题，恰恰戳中了当下AI应用开发最头疼的痛点。  前言\n\n最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案，既能保留完整上下文记"
 Tags:
   - 后端中文技术社区
   - 前端开发社区
@@ -15,8 +15,8 @@ Tags:
   - 前端工程师职业发展
   - 开源前端项目
   - 前端技术趋势
-Created: "2026-04-23 22:37:03"
-Cover: "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b2b6df4306a942bc919c8733ae4d419a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6IuP5LiJ6K-05oqA5pyv:q75.awebp?rk3s=f64ab15b&x-expires=1777429681&x-signature=cBdsdpalXaWg6Cq8%2Fshl2X6Ftt8%3D"
+Created: "2026-05-11 10:44:38"
+Cover: "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b2b6df4306a942bc919c8733ae4d419a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6IuP5LiJ6K-05oqA5pyv:q75.awebp?rk3s=f64ab15b&x-expires=1778629921&x-signature=qa3wtQyUc5flAHhgB6w20sQcXic%3D"
 ---
 ## 前言
 
@@ -46,7 +46,7 @@ Cover: "https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b2b6df4306a942bc919
 
 这就是所谓的“上下文注入”。
 
-![image](https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b2b6df4306a942bc919c8733ae4d419a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6IuP5LiJ6K-05oqA5pyv:q75.awebp?rk3s=f64ab15b&x-expires=1777429681&x-signature=cBdsdpalXaWg6Cq8%2Fshl2X6Ftt8%3D)
+![image](https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/b2b6df4306a942bc919c8733ae4d419a~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6IuP5LiJ6K-05oqA5pyv:q75.awebp?rk3s=f64ab15b&x-expires=1778629921&x-signature=qa3wtQyUc5flAHhgB6w20sQcXic%3D)
 
 看到没？
 
@@ -350,8 +350,6 @@ bash 体验AI代码助手 代码解读复制代码public class VectorMemory {
 没有单一方案是完美的。真正的工业级系统，往往会 **组合多种策略**，形成分层记忆。
 
 下面这张图展示了一个典型的混合记忆架构：
-
-![image](https://p6-xtjj-sign.byteimg.com/tos-cn-i-73owjymdk6/4a6ad6ef27cf4114bbaa1482f33a1417~tplv-73owjymdk6-jj-mark-v1:0:0:0:0:5o6Y6YeR5oqA5pyv56S-5Yy6IEAg6IuP5LiJ6K-05oqA5pyv:q75.awebp?rk3s=f64ab15b&x-expires=1777429681&x-signature=bZaAQpAt%2BaMJ%2FL7XzQcVSdMjUWM%3D)
 
 Java实现的核心骨架：
 
