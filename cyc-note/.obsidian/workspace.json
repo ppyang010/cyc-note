@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
+                "file": "收藏知识库/节省Token的8种方案.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "零成本部署AIStudio反代 - CLIProxyAPI"
+              "title": "节省Token的8种方案"
             }
           }
         ],
@@ -211,6 +211,7 @@
   },
   "active": "aa006785ef53defc",
   "lastOpenFiles": [
+    "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
     "收藏知识库/🔥从聊天到干活：三分钟搞懂 LLM、Agent、RAG、Skill面试官-现在大家聊的 LLM、Agent、RAG、F - 掘金.md",
     "收藏知识库/Superpowers 详细用法教程.md",
     "收藏知识库/JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金.md",
@@ -223,7 +224,6 @@
     "收藏知识库/Text-to-SQL与智能问数完全指南：基本概念、核心原理、Python实战教学及企业项目落地-CSDN博客.md",
     "收藏知识库/软件人员可以关注的 Skill，亲测确实不错，值得试一下.md",
     "收藏知识库/Oh My Codex 快速使用指南 - 技术栈.md",
-    "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
     "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
     "收藏知识库/Java 开发者 Python 对照学习计划.md",
     "收藏知识库/Obsidian通过github实现同步（Obsidian Git） - 知乎.md",
