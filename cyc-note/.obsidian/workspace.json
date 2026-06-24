@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +196,9 @@
   },
   "active": "65fbf4d19d06db5f",
   "lastOpenFiles": [
-    "未命名 1.base",
+    "重要接口Feign高优先级线程池划分表.md",
     "未命名.base",
+    "未命名 1.base",
     "收藏知识库/节省Token的8种方案.md",
     "收藏知识库/Python 判空避坑：为什么必须用 is None 而非 == None.md",
     "收藏知识库/Java 开发者 Python 对照学习计划.md",
