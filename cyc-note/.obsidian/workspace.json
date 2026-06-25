@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bb80297a8447ef23",
+        "id": "f67b42e5ec65e71e",
         "type": "tabs",
         "children": [
           {
-            "id": "65fbf4d19d06db5f",
+            "id": "eaa6029cecfc5e16",
             "type": "leaf",
             "state": {
-              "type": "bases",
-              "state": {
-                "file": "未命名.base",
-                "viewName": "表格"
-              },
-              "icon": "lucide-table",
-              "title": "未命名"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -179,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "557b8812d0b45049",
+  "active": "eaa6029cecfc5e16",
   "lastOpenFiles": [
-    "重要接口Feign高优先级线程池划分表.md",
     "未命名.base",
+    "重要接口Feign高优先级线程池划分表.md",
     "未命名 1.base",
     "收藏知识库/节省Token的8种方案.md",
     "收藏知识库/Python 判空避坑：为什么必须用 is None 而非 == None.md",
