@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/123.md",
+                "file": "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "123"
+              "title": "零成本部署AIStudio反代 - CLIProxyAPI"
             }
           }
         ],
@@ -223,8 +223,8 @@
   },
   "active": "8415343feaba5067",
   "lastOpenFiles": [
-    "Pasted image 20260625164553.png",
     "收藏知识库/123.md",
+    "Pasted image 20260625164553.png",
     "收藏知识库/Pasted image 20260625164514.png",
     "未命名.base",
     "重要接口Feign高优先级线程池划分表.md",
