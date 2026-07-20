@@ -20,35 +20,8 @@
               "icon": "lucide-file",
               "title": "123"
             }
-          },
-          {
-            "id": "39206268c38ca300",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20260625164553.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260625164553"
-            }
-          },
-          {
-            "id": "8415343feaba5067",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "零成本部署AIStudio反代 - CLIProxyAPI"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,10 +194,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8415343feaba5067",
+  "active": "eaa6029cecfc5e16",
   "lastOpenFiles": [
-    "收藏知识库/123.md",
     "Pasted image 20260625164553.png",
+    "收藏知识库/123.md",
+    "收藏知识库/从 Spring Boot 4.1 到 gRPC 回潮，我追问了 7 轮，答案指向了 AI.md",
+    "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
     "收藏知识库/Pasted image 20260625164514.png",
     "未命名.base",
     "重要接口Feign高优先级线程池划分表.md",
@@ -236,8 +211,6 @@
     "收藏知识库/JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金.md",
     "收藏知识库/🔥从聊天到干活：三分钟搞懂 LLM、Agent、RAG、Skill面试官-现在大家聊的 LLM、Agent、RAG、F - 掘金.md",
     "收藏知识库/Superpowers 详细用法教程.md",
-    "收藏知识库/从 Spring Boot 4.1 到 gRPC 回潮，我追问了 7 轮，答案指向了 AI.md",
-    "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
     "收藏知识库/程序员逼格拉满！ccstatusline：让你的 Claude Code 状态栏直接封神！.md",
     "收藏知识库/Codex windows版安装包下载和安装教程（Windows无法微软商店下载解决方法）.md",
     "收藏知识库/OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金.md",
