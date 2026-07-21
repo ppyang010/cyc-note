@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiz/开发工具/Sublime Text 3 快捷键总结（拿走） (2).md",
+                "file": "wiz/开发工具/javaweb项目  eclispe和intellj.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sublime Text 3 快捷键总结（拿走） (2)"
+              "title": "javaweb项目  eclispe和intellj"
             }
           }
         ]
@@ -196,11 +196,14 @@
   },
   "active": "45a6155f9a923c5a",
   "lastOpenFiles": [
+    "wiz/开发工具/intellj 入门使用小结  project structure.md",
     "wiz/开发工具/无标题.md",
+    "wiz/开发工具/IntelliJ IDEA—IDEA2018激活 IDEA 2018.2激活教程 最新的（三种）—2018.7.20亲测 - CSDN博客.md",
+    "wiz/开发工具/atom 插件.md",
+    "wiz/开发工具/Sublime Text 3 快捷键总结（拿走） (2).md",
     "wiz/开发工具/在IDEA中实战Git.md",
     "wiz/开发工具/vs code 常用插件.md",
     "wiz/开发工具/javaweb项目  eclispe和intellj.md",
-    "wiz/开发工具/intellj 入门使用小结  project structure.md",
     "wiz/开发工具/intellj  使用小计.md",
     "wiz/开发工具/intellij idea 相关.md",
     "wiz/开发工具/idea调试工具.md",
@@ -222,17 +225,14 @@
     "wiz/开发工具/apm 命令环境配置.md",
     "wiz/开发工具/VSCode 实现可以右键打开文件和文件夹的解决方案.md",
     "wiz/开发工具/Itellij idea 插件.md",
-    "wiz/开发工具/IntelliJ IDEA—IDEA2018激活 IDEA 2018.2激活教程 最新的（三种）—2018.7.20亲测 - CSDN博客.md",
     "wiz/开发工具/IntelliJ IDEA 中模块所依赖的资源库右侧的Scope是干什么的.md",
     "wiz/开发工具/IntelliJ IDEA -- 自定义Task(TODO)标签.md",
     "wiz/开发工具/IDEA 文件名颜色分别表示的意思.md",
     "wiz/开发工具/Git中.gitignore的配置语法.md",
     "wiz/开发工具/Sublime Text 3 快捷键总结（拿走）.md",
-    "wiz/开发工具/Sublime Text 3 快捷键总结（拿走） (2).md",
     "wiz/开发工具/eclipse  插件.md",
     "wiz/开发工具/tomcat服务器配置远程调试 - QQ天堂 - 博客园.md",
     "wiz/开发工具/开发语言工具资讯收集.md",
-    "wiz/开发工具/sublime 一些插件.md",
     "wiz/开发工具/attachments",
     "wiz/开发工具",
     "未命名.base",
