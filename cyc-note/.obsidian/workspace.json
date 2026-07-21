@@ -11,10 +11,14 @@
             "id": "45a6155f9a923c5a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiz/开发工具/Sublime Text 3 快捷键总结（拿走） (2).md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Sublime Text 3 快捷键总结（拿走） (2)"
             }
           }
         ]
@@ -192,6 +196,13 @@
   },
   "active": "45a6155f9a923c5a",
   "lastOpenFiles": [
+    "wiz/开发工具/Sublime Text 3 快捷键总结（拿走）.md",
+    "wiz/开发工具/Sublime Text 3 快捷键总结（拿走） (2).md",
+    "wiz/开发工具/eclipse  插件.md",
+    "wiz/开发工具/tomcat服务器配置远程调试 - QQ天堂 - 博客园.md",
+    "wiz/开发工具/开发语言工具资讯收集.md",
+    "wiz/开发工具/sublime 一些插件.md",
+    "wiz/开发工具/本地源码关联远程服务器调试代码 - java_min的专栏 - 博客频道 - CSDN.NET.md",
     "wiz/开发工具/attachments/wechat.png",
     "wiz/开发工具/attachments/u38368.jpg",
     "wiz/开发工具/attachments/icon_weibo_24.png",
@@ -201,17 +212,10 @@
     "wiz/开发工具/attachments/SouthEast.jpg",
     "wiz/开发工具/attachments/583314296.png",
     "wiz/开发工具/attachments/1db119b0089be63f5674c35ec53f1d8f.jpg",
-    "wiz/开发工具/本地源码关联远程服务器调试代码 - java_min的专栏 - 博客频道 - CSDN.NET.md",
-    "wiz/开发工具/开发语言工具资讯收集.md",
-    "wiz/开发工具/tomcat服务器配置远程调试 - QQ天堂 - 博客园.md",
-    "wiz/开发工具/sublime 一些插件.md",
     "wiz/开发工具/git 工具.md",
-    "wiz/开发工具/eclipse  插件.md",
     "wiz/开发工具/attachments",
     "wiz/开发工具/atom.md",
     "wiz/开发工具/atom 插件.md",
-    "wiz/开发工具/Sublime Text 3 快捷键总结（拿走）.md",
-    "wiz/开发工具/Sublime Text 3 快捷键总结（拿走） (2).md",
     "wiz/开发工具",
     "收藏知识库/123.md",
     "收藏知识库/从 Spring Boot 4.1 到 gRPC 回潮，我追问了 7 轮，答案指向了 AI.md",
@@ -221,7 +225,6 @@
     "欢迎.md",
     "收藏知识库/未命名.md",
     "Pasted image 20260625164553.png",
-    "收藏知识库/attachments/Pasted image 20260720171636.png",
     "收藏知识库/attachments",
     "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
     "重要接口Feign高优先级线程池划分表.md",
