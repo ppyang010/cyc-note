@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "15abb060062d3b52",
+        "id": "dc2b7dbe14031f35",
         "type": "tabs",
         "children": [
           {
-            "id": "45a6155f9a923c5a",
+            "id": "1f13b8fd12bc6a77",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +74,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -192,15 +191,17 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "pinned-notes:快速": false
     }
   },
-  "active": "ac9c1d289df5c591",
+  "active": "557b8812d0b45049",
   "lastOpenFiles": [
-    "wiz/开发工具/intellj 入门使用小结  project structure.md",
+    "wiz/开发工具.md",
     "wiz/开发工具/无标题.md",
-    "未命名 1.base",
     "收藏知识库/不用框架，手搓 AI Agent：(一) 先让它跑起来给 AI Agent 去个魅！核心公式：大模型（大脑）+ Harn - 掘金.md",
+    "wiz/开发工具/intellj 入门使用小结  project structure.md",
+    "未命名 1.base",
     "收藏知识库/OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金.md",
     "wiz/开发工具/javaweb项目  eclispe和intellj.md",
     "wiz/开发工具/IntelliJ IDEA—IDEA2018激活 IDEA 2018.2激活教程 最新的（三种）—2018.7.20亲测 - CSDN博客.md",
