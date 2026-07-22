@@ -7,12 +7,14 @@ Description: ""
 Tags: []
 Created: "2021-12-22T21:07:23+08:00"
 Cover: ""
+Pinned: true
+WizPinned: true
 WizGuid: "b662d616-1ea6-41db-94d1-9d9ecb2c28be"
 WizType: "document"
 WizLocation: "/开发工具/"
 WizDataMd5: "ef51cf660711ba76e5ea4fc2413fced6"
 Modified: "2021-12-22T21:07:58+08:00"
-WizSyncedAt: "2026-07-21T17:35:17+08:00"
+WizSyncedAt: "2026-07-22T16:05:38+08:00"
 ---
 
 IntelliJ IDEA 中模块所依赖的资源库右侧的Scope是干什么的？
