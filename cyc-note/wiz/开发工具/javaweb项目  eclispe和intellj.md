@@ -5,7 +5,7 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2017-07-29T19:51:15+08:00"
+Created: "2017-07-29 19:51:15"
 Cover: ""
 Pinned: true
 WizPinned: true
@@ -13,8 +13,8 @@ WizGuid: "875a5c12-03e3-4df7-88cf-f7e743e04c52"
 WizType: "document"
 WizLocation: "/开发工具/"
 WizDataMd5: "36a3950c61ebc5669650d1fe277e1e22"
-Modified: "2017-07-30T01:58:13+08:00"
-WizSyncedAt: "2026-07-22T16:05:38+08:00"
+Modified: "2017-07-30 01:58:13"
+WizSyncedAt: "2026-07-22 16:05:38"
 ---
 
 javaweb项目在eclipse中一般需要设置

@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2017-11-20T11:09:17+08:00"
+Created: "2017-11-20 11:09:17"
 Cover: ""
 WizGuid: "6536fa62-aa40-4fde-a745-1c3261e17131"
 WizType: ""
 WizLocation: "/开发工具/"
 WizDataMd5: "2a9be869d2d7322cbb4ff54d6a16272d"
-Modified: "2017-11-20T11:31:14+08:00"
-WizSyncedAt: "2026-07-21T17:35:17+08:00"
+Modified: "2017-11-20 11:31:14"
+WizSyncedAt: "2026-07-21 17:35:17"
 ---
 
 工作中多人使用版本控制软件协作开发，常见的应用场景归纳如下：

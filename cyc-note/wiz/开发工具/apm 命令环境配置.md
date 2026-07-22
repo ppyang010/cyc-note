@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2016-11-03T15:30:29+08:00"
+Created: "2016-11-03 15:30:29"
 Cover: ""
 WizGuid: "c5b70f91-243f-4930-9663-40254891d239"
 WizType: "document"
 WizLocation: "/开发工具/"
 WizDataMd5: "00e99ef5e8e3ea93b9748d50b22aab66"
-Modified: "2016-11-03T15:35:40+08:00"
-WizSyncedAt: "2026-07-21T17:35:17+08:00"
+Modified: "2016-11-03 15:35:40"
+WizSyncedAt: "2026-07-21 17:35:17"
 ---
 
 打开系统属性，然后按照下面途中顺序依次打开对话框（蓝色标出）：

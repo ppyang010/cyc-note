@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2019-12-29T23:30:52+08:00"
+Created: "2019-12-29 23:30:52"
 Cover: ""
 WizGuid: "df098d42-e34a-46f2-a017-bba822f92859"
 WizType: "document"
 WizLocation: "/开发工具/"
 WizDataMd5: "37a63d2e3416b760f99e43cdff6c723f"
-Modified: "2019-12-29T23:31:04+08:00"
-WizSyncedAt: "2026-07-21T17:35:17+08:00"
+Modified: "2019-12-29 23:31:04"
+WizSyncedAt: "2026-07-21 17:35:17"
 ---
 
 **VSCode 实现可以右键打开文件和文件夹的解决方案：**

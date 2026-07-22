@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2016-08-30T10:58:15+08:00"
+Created: "2016-08-30 10:58:15"
 Cover: ""
 WizGuid: "b7e74389-973a-4e90-9bce-7a17bcfc3941"
 WizType: "document"
 WizLocation: "/开发工具/"
 WizDataMd5: "c7f9f2345b33f4cdd1a1ac4c2f659fb0"
-Modified: "2016-08-30T11:19:15+08:00"
-WizSyncedAt: "2026-07-21T15:18:27+08:00"
+Modified: "2016-08-30 11:19:15"
+WizSyncedAt: "2026-07-21 15:18:27"
 ---
 
 # **常用快捷键–亲测及翻译**

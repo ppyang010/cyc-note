@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2016-06-26T16:25:52+08:00"
+Created: "2016-06-26 16:25:52"
 Cover: ""
 WizGuid: "8ae31c29-8a45-4f4d-8fe9-10f351d65141"
 WizType: ""
 WizLocation: "/开发工具/"
 WizDataMd5: "f060ed032e4f5d638f593530c34ff3db"
-Modified: "2016-06-26T16:25:52+08:00"
-WizSyncedAt: "2026-07-21T15:18:27+08:00"
+Modified: "2016-06-26 16:25:52"
+WizSyncedAt: "2026-07-21 15:18:27"
 ---
 
 # Sublime Text 3 快捷键总结（拿走）

@@ -6,14 +6,14 @@ Origin: "WizNote"
 Description: ""
 Tags:
   - "git"
-Created: "2017-07-12T14:55:43+08:00"
+Created: "2017-07-12 14:55:43"
 Cover: ""
 WizGuid: "cb483467-92cf-4e81-881e-fb84a7198dd7"
 WizType: ""
 WizLocation: "/开发工具/"
 WizDataMd5: "1b356555081b4275c4cb2bb0af304214"
-Modified: "2017-07-12T14:55:43+08:00"
-WizSyncedAt: "2026-07-21T17:35:17+08:00"
+Modified: "2017-07-12 14:55:43"
+WizSyncedAt: "2026-07-21 17:35:17"
 ---
 
 在日常的开发中，当我们需要将一个项目提交到[Git](http://lib.csdn.net/base/git)时，并不是所有的文件都需要提交，比如一些自动生成的文件，这时候就可以使用.gitignore来忽略一些不需要提交的文件，本文着重介绍一下.gitignore的配置语法。

@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2016-08-30T11:05:00+08:00"
+Created: "2016-08-30 11:05:00"
 Cover: ""
 WizGuid: "40e26afb-9b8a-40df-9aa8-6762db23d557"
 WizType: "document"
 WizLocation: "/开发工具/"
 WizDataMd5: "9f31e489d5b3f2f9af4a0bdb1dd7429d"
-Modified: "2017-02-08T17:52:59+08:00"
-WizSyncedAt: "2026-07-21T15:18:27+08:00"
+Modified: "2017-02-08 17:52:59"
+WizSyncedAt: "2026-07-21 15:18:27"
 ---
 
 1. Emmet — 用过都说好,神器;有个别快捷键会和Markdown preview快捷键冲突,改下就好了

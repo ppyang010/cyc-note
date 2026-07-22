@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2017-12-20T18:00:02+08:00"
+Created: "2017-12-20 18:00:02"
 Cover: ""
 WizGuid: "e385fc3a-80ef-4528-8d8f-00d11bba6d79"
 WizType: ""
 WizLocation: "/开发工具/"
 WizDataMd5: "e487d54e235f17196d9f039b4ef70503"
-Modified: "2017-12-20T18:00:11+08:00"
-WizSyncedAt: "2026-07-21T17:35:17+08:00"
+Modified: "2017-12-20 18:00:11"
+WizSyncedAt: "2026-07-21 17:35:17"
 ---
 
 ### [IntelliJ IDEA -- 自定义Task(TODO)标签](http://b-l-east.iteye.com/blog/2209418)

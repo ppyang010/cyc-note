@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2017-07-30T19:51:48+08:00"
+Created: "2017-07-30 19:51:48"
 Cover: ""
 WizGuid: "e4085608-b292-475c-b970-d0a1e7ce17d6"
 WizType: "document"
 WizLocation: "/开发工具/"
 WizDataMd5: "68c051c6a832df47539b058d2d5e66a2"
-Modified: "2017-07-30T19:52:03+08:00"
-WizSyncedAt: "2026-07-21T17:35:17+08:00"
+Modified: "2017-07-30 19:52:03"
+WizSyncedAt: "2026-07-21 17:35:17"
 ---
 
 IDEA (或 [Android](http://lib.csdn.net/base/15) Studio ) 文件名颜色分别表示的意思

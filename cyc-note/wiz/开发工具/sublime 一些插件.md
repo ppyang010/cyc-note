@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2016-06-29T11:06:39+08:00"
+Created: "2016-06-29 11:06:39"
 Cover: ""
 WizGuid: "7a3a4efc-9d6e-44c4-a928-9b38cd4c6b4b"
 WizType: ""
 WizLocation: "/开发工具/"
 WizDataMd5: "adeaa649f8ea7cedab4cbfbbba76eb52"
-Modified: "2016-09-10T15:27:20+08:00"
-WizSyncedAt: "2026-07-21T15:18:27+08:00"
+Modified: "2016-09-10 15:27:20"
+WizSyncedAt: "2026-07-21 15:18:27"
 ---
 
 使用Package Control组件安装

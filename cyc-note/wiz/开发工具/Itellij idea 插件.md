@@ -5,14 +5,14 @@ Author: ""
 Origin: "WizNote"
 Description: ""
 Tags: []
-Created: "2017-07-28T20:04:41+08:00"
+Created: "2017-07-28 20:04:41"
 Cover: ""
 WizGuid: "a1a3fdb6-899d-4c53-b2c0-ca0ba9a96866"
 WizType: "document"
 WizLocation: "/开发工具/"
 WizDataMd5: "cf3be2f18bc1d883c82d68602a4dd914"
-Modified: "2020-04-20T10:41:39+08:00"
-WizSyncedAt: "2026-07-21T17:35:17+08:00"
+Modified: "2020-04-20 10:41:39"
+WizSyncedAt: "2026-07-21 17:35:17"
 ---
 
 ignore   gitignore编写插件   [http://blog.csdn.net/qq_34590097/article/details/56284935](http://blog.csdn.net/qq_34590097/article/details/56284935)
