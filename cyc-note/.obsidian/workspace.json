@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/当所有人都在用 TS-Python 写 Agent，我们为什么坚持 Java.md",
+                "file": "收藏知识库/我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "当所有人都在用 TS-Python 写 Agent，我们为什么坚持 Java"
+              "title": "我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏知识库/当所有人都在用 TS-Python 写 Agent，我们为什么坚持 Java.md",
+                "file": "收藏知识库/我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "当所有人都在用 TS-Python 写 Agent，我们为什么坚持 Java 的大纲"
+              "title": "我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址） 的大纲"
             }
           },
           {
@@ -197,8 +197,10 @@
   },
   "active": "1f13b8fd12bc6a77",
   "lastOpenFiles": [
-    "收藏知识库/为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎.md",
+    "收藏知识库/从 Spring Boot 4.1 到 gRPC 回潮，我追问了 7 轮，答案指向了 AI 1.md",
     "收藏知识库/当所有人都在用 TS-Python 写 Agent，我们为什么坚持 Java.md",
+    "收藏知识库/我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）.md",
+    "收藏知识库/为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎.md",
     "收藏知识库/当所有人都在用 TS/Python 写 Agent，我们为什么坚持 Java - 带刺的坐椅 - 博客园.md",
     "收藏知识库/当所有人都在用 TS",
     "收藏知识库/你的 Agent 架构，为什么半年后就过期了？ - 知乎.md",
@@ -234,8 +236,6 @@
     "wiz/开发工具/attachments/d8fc6f1e-f162-4250-9b67-7c2ab275c322.png",
     "wiz/开发工具/attachments/d0c909f4-c35e-414d-ab6e-d4e135a97579.png",
     "wiz/开发工具/attachments/a9eb00bb-8fa5-4195-a017-94985db98d32",
-    "wiz/开发工具/atom 插件离线安装.md",
-    "wiz/开发工具/apm 命令环境配置.md",
     "wiz/开发工具/attachments",
     "wiz/开发工具",
     "未命名.base",
