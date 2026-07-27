@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiz/开发工具/idea激活   2021.3.md",
+                "file": "收藏知识库/为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "idea激活   2021.3"
+              "title": "为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiz/开发工具/idea激活   2021.3.md",
+                "file": "收藏知识库/为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "idea激活   2021.3 的大纲"
+              "title": "为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎 的大纲"
             }
           },
           {
@@ -197,6 +197,10 @@
   },
   "active": "1f13b8fd12bc6a77",
   "lastOpenFiles": [
+    "收藏知识库/你的 Agent 架构，为什么半年后就过期了？ - 知乎.md",
+    "收藏知识库/为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎.md",
+    "收藏知识库/不用框架，手搓 AI Agent：(一) 先让它跑起来给 AI Agent 去个魅！核心公式：大模型（大脑）+ Harn - 掘金.md",
+    "wiz/开发工具/idea激活   2021.3.md",
     "收藏知识库/Oh My Codex 快速使用指南 - 技术栈.md",
     "wiz/开发工具/IntelliJ IDEA 中模块所依赖的资源库右侧的Scope是干什么的.md",
     "wiz/开发工具/在IDEA中实战Git.md",
@@ -205,7 +209,6 @@
     "wiz/开发工具/intellj 入门使用小结  project structure.md",
     "wiz/开发工具/无标题.md",
     "wiz/开发工具/tomcat服务器配置远程调试 - QQ天堂 - 博客园.md",
-    "收藏知识库/不用框架，手搓 AI Agent：(一) 先让它跑起来给 AI Agent 去个魅！核心公式：大模型（大脑）+ Harn - 掘金.md",
     "wiz/开发工具.md",
     "未命名 1.base",
     "收藏知识库/OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金.md",
@@ -215,7 +218,6 @@
     "wiz/开发工具/intellj  使用小计.md",
     "wiz/开发工具/intellij idea 相关.md",
     "wiz/开发工具/idea调试工具.md",
-    "wiz/开发工具/idea激活   2021.3.md",
     "wiz/开发工具/idea 批量操作,正则替换,后缀补全.md",
     "wiz/开发工具/eclipse插件.md",
     "wiz/开发工具/attachments/fa94a7b5-dc56-4deb-8edb-5ccd10ef698e.png",
@@ -233,8 +235,6 @@
     "wiz/开发工具/apm 命令环境配置.md",
     "wiz/开发工具/VSCode 实现可以右键打开文件和文件夹的解决方案.md",
     "wiz/开发工具/Itellij idea 插件.md",
-    "wiz/开发工具/IntelliJ IDEA -- 自定义Task(TODO)标签.md",
-    "wiz/开发工具/IDEA 文件名颜色分别表示的意思.md",
     "wiz/开发工具/attachments",
     "wiz/开发工具",
     "未命名.base",
