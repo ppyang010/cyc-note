@@ -195,10 +195,12 @@
       "pinned-notes:快速": false
     }
   },
-  "active": "1f13b8fd12bc6a77",
+  "active": "557b8812d0b45049",
   "lastOpenFiles": [
-    "收藏知识库/你的 Agent 架构，为什么半年后就过期了？ - 知乎.md",
+    "收藏知识库/当所有人都在用 TS/Python 写 Agent，我们为什么坚持 Java - 带刺的坐椅 - 博客园.md",
     "收藏知识库/为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎.md",
+    "收藏知识库/当所有人都在用 TS",
+    "收藏知识库/你的 Agent 架构，为什么半年后就过期了？ - 知乎.md",
     "收藏知识库/不用框架，手搓 AI Agent：(一) 先让它跑起来给 AI Agent 去个魅！核心公式：大模型（大脑）+ Harn - 掘金.md",
     "wiz/开发工具/idea激活   2021.3.md",
     "收藏知识库/Oh My Codex 快速使用指南 - 技术栈.md",
@@ -234,7 +236,6 @@
     "wiz/开发工具/atom 插件离线安装.md",
     "wiz/开发工具/apm 命令环境配置.md",
     "wiz/开发工具/VSCode 实现可以右键打开文件和文件夹的解决方案.md",
-    "wiz/开发工具/Itellij idea 插件.md",
     "wiz/开发工具/attachments",
     "wiz/开发工具",
     "未命名.base",
@@ -242,7 +243,6 @@
     "收藏知识库/attachments",
     "收藏知识库/(99+ 封私信 ",
     "未命名1 1.base",
-    "未命名.canvas",
-    "收藏知识库"
+    "未命名.canvas"
   ]
 }
