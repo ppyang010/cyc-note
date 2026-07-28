@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）.md",
+                "file": "收藏知识库/继续开源！WorkBuddy 实战蓝皮书，助你更好使用 Agent！（建议收藏）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）"
+              "title": "继续开源！WorkBuddy 实战蓝皮书，助你更好使用 Agent！（建议收藏）"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏知识库/我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）.md",
+                "file": "收藏知识库/继续开源！WorkBuddy 实战蓝皮书，助你更好使用 Agent！（建议收藏）.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址） 的大纲"
+              "title": "继续开源！WorkBuddy 实战蓝皮书，助你更好使用 Agent！（建议收藏） 的大纲"
             }
           },
           {
@@ -195,8 +195,10 @@
       "pinned-notes:快速": false
     }
   },
-  "active": "0da7b6c9a4371447",
+  "active": "1f13b8fd12bc6a77",
   "lastOpenFiles": [
+    "收藏知识库/我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）.md",
+    "收藏知识库/继续开源！WorkBuddy 实战蓝皮书，助你更好使用 Agent！（建议收藏）.md",
     "收藏知识库/社交媒体 API 与数据基础设施.md",
     "收藏知识库/【教程1】教你0基础纯vibe用一个对话实现微信hook发送消息.md",
     "收藏知识库/Thinking in Context- 何时需要多智能体.md",
@@ -205,7 +207,6 @@
     "收藏知识库/为什么 AQS 成为 Java 并发的基石？.md",
     "收藏知识库/从 Spring Boot 4.1 到 gRPC 回潮，我追问了 7 轮，答案指向了 AI 1.md",
     "收藏知识库/当所有人都在用 TS-Python 写 Agent，我们为什么坚持 Java.md",
-    "收藏知识库/我用Claude Code搭了个四个AI的团队，居然真的能协作开发（附项目地址）.md",
     "收藏知识库/为什么缓存，大家喜欢用redis，很少人用caffeine? - 知乎.md",
     "收藏知识库/当所有人都在用 TS/Python 写 Agent，我们为什么坚持 Java - 带刺的坐椅 - 博客园.md",
     "收藏知识库/当所有人都在用 TS",
@@ -224,7 +225,6 @@
     "未命名 1.base",
     "收藏知识库/OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金.md",
     "wiz/开发工具/IntelliJ IDEA—IDEA2018激活 IDEA 2018.2激活教程 最新的（三种）—2018.7.20亲测 - CSDN博客.md",
-    "wiz/开发工具/atom 插件.md",
     "wiz/开发工具/attachments/fa94a7b5-dc56-4deb-8edb-5ccd10ef698e.png",
     "wiz/开发工具/attachments/f8478f94-a52a-4825-b840-eb2ff82a4401.jpg",
     "wiz/开发工具/attachments/f7363cc4-6fd6-49f6-a447-31f7d10b2b87.png",
