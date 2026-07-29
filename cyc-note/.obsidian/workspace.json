@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiz/dxy/init/24技能.md",
+                "file": "wiz/开发工具.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24技能"
+              "title": "开发工具"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiz/dxy/init/24技能.md",
+                "file": "wiz/开发工具.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "24技能 的大纲"
+              "title": "开发工具 的大纲"
             }
           },
           {
@@ -197,6 +197,10 @@
   },
   "active": "1f13b8fd12bc6a77",
   "lastOpenFiles": [
+    "wiz/dxy/init/无标题 (3)--82f9e59a.md",
+    "wiz/dxy/init/无标题 (2)--eefc00dd.md",
+    "wiz/dxy/init/无标题 (3)--acb89a45.md",
+    "wiz/dxy/init/24技能.md",
     "wiz/dxy/init/常用.md",
     "wiz/dxy/init/课程.md",
     "收藏知识库/一种适合程序员的 Agent 协作方式的实践.md",
@@ -219,10 +223,6 @@
     "wiz/dxy/init/无标题--c8123f95.md",
     "wiz/dxy/init/无标题--92b98dca.md",
     "wiz/dxy/init/无标题--3c2fb561.md",
-    "wiz/dxy/init/无标题 (6).md",
-    "wiz/dxy/init/无标题 (5).md",
-    "wiz/dxy/init/无标题 (4).md",
-    "wiz/dxy/init/无标题 (3)--acb89a45.md",
     "wiz/dxy/init/attachments/81243993.png",
     "wiz/dxy/init/attachments/81233071.png",
     "wiz/dxy/init/attachments/81224022.png",
