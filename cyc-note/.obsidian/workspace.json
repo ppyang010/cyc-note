@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/一种适合程序员的 Agent 协作方式的实践.md",
+                "file": "wiz/dxy/init/24技能.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "一种适合程序员的 Agent 协作方式的实践"
+              "title": "24技能"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏知识库/一种适合程序员的 Agent 协作方式的实践.md",
+                "file": "wiz/dxy/init/24技能.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一种适合程序员的 Agent 协作方式的实践 的大纲"
+              "title": "24技能 的大纲"
             }
           },
           {
@@ -197,12 +197,14 @@
   },
   "active": "1f13b8fd12bc6a77",
   "lastOpenFiles": [
+    "wiz/dxy/init/常用.md",
+    "wiz/dxy/init/课程.md",
+    "收藏知识库/一种适合程序员的 Agent 协作方式的实践.md",
     "wiz/dxy/init/项目重启日志.md",
     "wiz/dxy/init/需求.md",
     "wiz/dxy/init/限制登录设备的方案.md",
     "wiz/dxy/init/退款流程.md",
     "wiz/dxy/init/账号密码.md",
-    "wiz/dxy/init/课程.md",
     "wiz/dxy/init/讲师结算.md",
     "wiz/dxy/init/订单及对应优惠.md",
     "wiz/dxy/init/计算机科学领域的任何问题都可以通过增加一个间接的中间层来解决，如果不行，那就加两层。.md",
@@ -231,8 +233,6 @@
     "wiz/dxy/init/attachments/72618435.png",
     "wiz/dxy/init/attachments/72374922.png",
     "wiz/dxy/init/attachments/72105207.png",
-    "wiz/dxy/init/无标题 (3)--82f9e59a.md",
-    "wiz/dxy/init/无标题 (2)--eefc00dd.md",
     "wiz/dxy/init/attachments",
     "wiz/dxy/init",
     "wiz/dxy",
