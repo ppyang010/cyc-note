@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiz/开发工具.md",
+                "file": "收藏知识库/agent记忆系统如何设计？ - 知乎.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开发工具"
+              "title": "agent记忆系统如何设计？ - 知乎"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wiz/开发工具.md",
+                "file": "收藏知识库/agent记忆系统如何设计？ - 知乎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "开发工具 的大纲"
+              "title": "agent记忆系统如何设计？ - 知乎 的大纲"
             }
           },
           {
@@ -195,8 +195,11 @@
       "pinned-notes:快速": false
     }
   },
-  "active": "1f13b8fd12bc6a77",
+  "active": "557b8812d0b45049",
   "lastOpenFiles": [
+    "收藏知识库/agent记忆系统如何设计？ - 小林coding 的回答.md",
+    "收藏知识库/agent记忆系统如何设计？ - 知乎.md",
+    "wiz/开发工具.md",
     "wiz/dxy/init/无标题 (3)--82f9e59a.md",
     "wiz/dxy/init/无标题 (2)--eefc00dd.md",
     "wiz/dxy/init/无标题 (3)--acb89a45.md",
@@ -220,9 +223,6 @@
     "wiz/dxy/init/汇率可配置需求分析 暂时舍弃.md",
     "wiz/dxy/init/日志系统.md",
     "wiz/dxy/init/日常疑问小笔记.md",
-    "wiz/dxy/init/无标题--c8123f95.md",
-    "wiz/dxy/init/无标题--92b98dca.md",
-    "wiz/dxy/init/无标题--3c2fb561.md",
     "wiz/dxy/init/attachments/81243993.png",
     "wiz/dxy/init/attachments/81233071.png",
     "wiz/dxy/init/attachments/81224022.png",
