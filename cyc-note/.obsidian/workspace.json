@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "de9c51fa78f74bda",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -196,8 +206,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "fea0efaa0df58752",
+  "active": "de9c51fa78f74bda",
   "lastOpenFiles": [
+    "收藏知识库/一种适合程序员的 Agent 协作方式的实践 - LibraJM - 博客园.md",
     "收藏知识库/铁王座的裂痕：为什么分布式协调之王 ZooKeeper 正在被无情替代？ - 知乎.md",
     "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
     "收藏知识库/agent记忆系统如何设计？ - 知乎.md",
@@ -223,7 +234,6 @@
     "wiz/dxy/init/直播优化点.md",
     "wiz/dxy/init/汇率问题最终方案.md",
     "wiz/dxy/init/汇率影响.md",
-    "wiz/dxy/init/汇率可配置需求分析 暂时舍弃.md",
     "wiz/dxy/init/attachments/81243993.png",
     "wiz/dxy/init/attachments/81233071.png",
     "wiz/dxy/init/attachments/81224022.png",
