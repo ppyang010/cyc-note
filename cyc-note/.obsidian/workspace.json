@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/铁王座的裂痕：为什么分布式协调之王 ZooKeeper 正在被无情替代？ - 知乎.md",
+                "file": "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "铁王座的裂痕：为什么分布式协调之王 ZooKeeper 正在被无情替代？ - 知乎"
+              "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏知识库/铁王座的裂痕：为什么分布式协调之王 ZooKeeper 正在被无情替代？ - 知乎.md",
+                "file": "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "铁王座的裂痕：为什么分布式协调之王 ZooKeeper 正在被无情替代？ - 知乎 的大纲"
+              "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。 的大纲"
             }
           },
           {
@@ -176,11 +176,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 544.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,13 +192,15 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "pinned-notes:快速": false
+      "pinned-notes:快速": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "1f13b8fd12bc6a77",
+  "active": "fea0efaa0df58752",
   "lastOpenFiles": [
-    "收藏知识库/agent记忆系统如何设计？ - 知乎.md",
     "收藏知识库/铁王座的裂痕：为什么分布式协调之王 ZooKeeper 正在被无情替代？ - 知乎.md",
+    "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
+    "收藏知识库/agent记忆系统如何设计？ - 知乎.md",
     "收藏知识库/agent记忆系统如何设计？ - 小林coding 的回答.md",
     "wiz/开发工具.md",
     "wiz/dxy/init/无标题 (3)--82f9e59a.md",
@@ -222,7 +224,6 @@
     "wiz/dxy/init/汇率问题最终方案.md",
     "wiz/dxy/init/汇率影响.md",
     "wiz/dxy/init/汇率可配置需求分析 暂时舍弃.md",
-    "wiz/dxy/init/日志系统.md",
     "wiz/dxy/init/attachments/81243993.png",
     "wiz/dxy/init/attachments/81233071.png",
     "wiz/dxy/init/attachments/81224022.png",
