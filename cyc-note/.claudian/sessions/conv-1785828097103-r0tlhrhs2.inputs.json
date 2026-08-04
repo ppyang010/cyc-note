@@ -1,5 +1,20 @@
 {
   "schemaVersion": 1,
   "conversationId": "conv-1785828097103-r0tlhrhs2",
-  "records": []
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785828487287-oboazhj",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785828487247-ix6db9t",
+      "timestamp": 1785828487247,
+      "rawDisplayText": "hi",
+      "canonicalText": "hi",
+      "images": [],
+      "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
+      "providerUserMessageId": "019fcbac-44d4-7be2-b606-e1b7eddb5494",
+      "providerAssistantMessageId": "msg_0965f6953fee887a016a71948e534081978165c870c6d7b341"
+    }
+  ]
 }
