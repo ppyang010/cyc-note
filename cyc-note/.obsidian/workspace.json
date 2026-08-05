@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
+                "file": "wiz/dxy/init/telepresence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。"
+              "title": "telepresence"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
+                "file": "wiz/dxy/init/telepresence.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。 的大纲"
+              "title": "telepresence 的大纲"
             }
           },
           {
@@ -206,11 +206,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "de9c51fa78f74bda",
+  "active": "1f13b8fd12bc6a77",
   "lastOpenFiles": [
+    "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
     "收藏知识库/一种适合程序员的 Agent 协作方式的实践 - LibraJM - 博客园.md",
     "收藏知识库/铁王座的裂痕：为什么分布式协调之王 ZooKeeper 正在被无情替代？ - 知乎.md",
-    "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
     "收藏知识库/agent记忆系统如何设计？ - 知乎.md",
     "收藏知识库/agent记忆系统如何设计？ - 小林coding 的回答.md",
     "wiz/开发工具.md",
