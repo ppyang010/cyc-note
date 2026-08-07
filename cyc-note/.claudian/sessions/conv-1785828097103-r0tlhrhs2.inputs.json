@@ -29,6 +29,19 @@
       "contentDigest": "9d68d4465455081bfef14468225c016c879c08105d8e1fe677dcbbdca49e15d3",
       "providerUserMessageId": "019fda4d-9608-7a93-a224-4efae6fd73d1",
       "providerAssistantMessageId": "msg_0965f6953fee887a016a7553b9f6e88197ad1ad01f9443472d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786094383980-7bv13os",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1786094383950-km98kwq",
+      "timestamp": 1786094383950,
+      "rawDisplayText": "https://mp.weixin.qq.com/s/g4nTfxm7ebzRwkAVIGdIbg\n读取内容保存到收藏知识库",
+      "canonicalText": "https://mp.weixin.qq.com/s/g4nTfxm7ebzRwkAVIGdIbg\n读取内容保存到收藏知识库",
+      "images": [],
+      "contentDigest": "ab5d1bee82719eb05b917811fd237444dfe067e2970027c95acd8557e92a5cb5",
+      "providerUserMessageId": "019fdb85-7444-7c83-944f-aa72cd11a96a"
     }
   ]
 }
