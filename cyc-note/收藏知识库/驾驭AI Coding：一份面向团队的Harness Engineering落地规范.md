@@ -1,15 +1,15 @@
 ---
-Title: "é©¾é©­AI Codingï¼ä¸ä»½é¢åå¢éçHarness Engineeringè½å°è§è"
+Title: "驾驭AI Coding：一份面向团队的Harness Engineering落地规范"
 Url: "https://mp.weixin.qq.com/s/g4nTfxm7ebzRwkAVIGdIbg"
-Author: "è¾è®¯ç¨åºåï¼atreusliuï¼"
-Origin: "å¾®ä¿¡å¬ä¼å·ï¼è¾è®¯ææ¯å·¥ç¨"
-Description: "æå¥½ä»£ç æ ååè¿ç³»ç»éï¼è®© AI å¨çº¦æä¸èªå·±å¹²æ´»"
+Author: "腾讯程序员（atreusliu）"
+Origin: "微信公众号：腾讯技术工程"
+Description: "把好代码标准写进系统里，让 AI 在约束下自己干活"
 Published: "2026-07-17 17:36:00"
 Created: "2026-08-07 17:20:01"
-Cover: "[[æ¶èç¥è¯åº/assets/é©¾é©­AI-Coding-Harness-Engineering/cover.jpg]]"
+Cover: "[[收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/cover.jpg]]"
 ---
 
-è¾è®¯ç¨åºå Â· è¾è®¯ææ¯å·¥ç¨ Â· *2026å¹´7æ17æ¥ 17:36*
+腾讯程序员 · 腾讯技术工程 · *2026年7月17日 17:36*
 
 ![[收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-01.gif]]
 

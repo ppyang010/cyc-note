@@ -41,7 +41,8 @@
       "canonicalText": "https://mp.weixin.qq.com/s/g4nTfxm7ebzRwkAVIGdIbg\n读取内容保存到收藏知识库",
       "images": [],
       "contentDigest": "ab5d1bee82719eb05b917811fd237444dfe067e2970027c95acd8557e92a5cb5",
-      "providerUserMessageId": "019fdb85-7444-7c83-944f-aa72cd11a96a"
+      "providerUserMessageId": "019fdb85-7444-7c83-944f-aa72cd11a96a",
+      "providerAssistantMessageId": "msg_0965f6953fee887a016a75a50fc42c8197baa1a8229e6dda57"
     }
   ]
 }
