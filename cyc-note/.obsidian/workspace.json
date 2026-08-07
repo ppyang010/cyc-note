@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "doc-llm/多-Agent-协作与-subagent-拆分判断.md",
+                "file": "ai-output/多-Agent-协作与-subagent-拆分判断.md",
                 "mode": "source",
                 "source": false
               },
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "doc-llm/多-Agent-协作与-subagent-拆分判断.md",
+                "file": "ai-output/多-Agent-协作与-subagent-拆分判断.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,11 +206,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1f13b8fd12bc6a77",
+  "active": "557b8812d0b45049",
   "lastOpenFiles": [
     "收藏知识库/多 Agent 协作不是多开几个窗口：什么时候该拆 subagent，什么时候不该拆 - 知乎.md",
-    "doc-llm/多-Agent-协作与-subagent-拆分判断.md",
-    "doc-llm",
+    "ai-output/多-Agent-协作与-subagent-拆分判断.md",
+    "ai-output",
     "wiz/dxy/init/telepresence.md",
     "收藏知识库/男大学生改造——【皮肤篇】丨海外工学博士亲身教男士怎样护肤！如何KO痘痘、痘印、黑头——变帅！ - 知乎.md",
     "收藏知识库/走进 AI Agent如果你刚接触 AI Agent，可能会觉得这个概念既熟悉又陌生——熟悉是因为到处都在谈论，陌生是因 - 掘金.md",
