@@ -4,8 +4,8 @@
   "title": "回应用户问候",
   "titleGenerationStatus": "success",
   "createdAt": 1785828097124,
-  "updatedAt": 1785828496489,
-  "lastResponseAt": 1785828496489,
+  "updatedAt": 1786074042209,
+  "lastResponseAt": 1786074042209,
   "sessionId": "019fcbac-31ea-7041-a6db-3d95f8ad16ff",
   "providerState": {
     "threadId": "019fcbac-31ea-7041-a6db-3d95f8ad16ff",
@@ -15,13 +15,13 @@
     "workspaceDependencyToolVersion": 1
   },
   "usage": {
-    "inputTokens": 18558,
+    "inputTokens": 40112,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 37632,
     "contextWindow": 258400,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 18558,
-    "percentage": 7,
+    "contextTokens": 40112,
+    "percentage": 16,
     "model": "gpt-5.6-sol"
   }
 }

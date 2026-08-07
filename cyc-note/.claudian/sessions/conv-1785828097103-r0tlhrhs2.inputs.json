@@ -15,6 +15,20 @@
       "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
       "providerUserMessageId": "019fcbac-44d4-7be2-b606-e1b7eddb5494",
       "providerAssistantMessageId": "msg_0965f6953fee887a016a71948e534081978165c870c6d7b341"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1786073945353-xft63wa",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1786073945338-0dp28fz",
+      "timestamp": 1786073945338,
+      "rawDisplayText": "@收藏知识库/多 Agent 协作不是多开几个窗口：什么时候该拆 subagent，什么时候不该拆 - 知乎.md \n总结下",
+      "canonicalText": "@收藏知识库/多 Agent 协作不是多开几个窗口：什么时候该拆 subagent，什么时候不该拆 - 知乎.md \n总结下",
+      "images": [],
+      "contentDigest": "9d68d4465455081bfef14468225c016c879c08105d8e1fe677dcbbdca49e15d3",
+      "providerUserMessageId": "019fda4d-9608-7a93-a224-4efae6fd73d1",
+      "providerAssistantMessageId": "msg_0965f6953fee887a016a7553b9f6e88197ad1ad01f9443472d"
     }
   ]
 }
