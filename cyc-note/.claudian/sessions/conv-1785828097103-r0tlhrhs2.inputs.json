@@ -13,7 +13,7 @@
       "canonicalText": "hi",
       "images": [],
       "contentDigest": "88de65a2615a366404fdfd86bc354f32929270ce50be0af4a2bb771e29bf83ef",
-      "providerUserMessageId": "019fcbac-44d4-7be2-b606-e1b7eddb5494",
+      "providerUserMessageId": "019fcbac-34e3-7661-a353-62d5920d7f0a",
       "providerAssistantMessageId": "msg_0965f6953fee887a016a71948e534081978165c870c6d7b341"
     },
     {
@@ -27,7 +27,7 @@
       "canonicalText": "@收藏知识库/多 Agent 协作不是多开几个窗口：什么时候该拆 subagent，什么时候不该拆 - 知乎.md \n总结下",
       "images": [],
       "contentDigest": "9d68d4465455081bfef14468225c016c879c08105d8e1fe677dcbbdca49e15d3",
-      "providerUserMessageId": "019fda4d-9608-7a93-a224-4efae6fd73d1",
+      "providerUserMessageId": "019fda4d-9541-7882-9735-484de955af75",
       "providerAssistantMessageId": "msg_0965f6953fee887a016a7553b9f6e88197ad1ad01f9443472d"
     },
     {
@@ -41,7 +41,7 @@
       "canonicalText": "https://mp.weixin.qq.com/s/g4nTfxm7ebzRwkAVIGdIbg\n读取内容保存到收藏知识库",
       "images": [],
       "contentDigest": "ab5d1bee82719eb05b917811fd237444dfe067e2970027c95acd8557e92a5cb5",
-      "providerUserMessageId": "019fdb85-7444-7c83-944f-aa72cd11a96a",
+      "providerUserMessageId": "019fdb85-73ae-7b10-b313-ce020a77574a",
       "providerAssistantMessageId": "msg_0965f6953fee887a016a75a50fc42c8197baa1a8229e6dda57"
     }
   ]
