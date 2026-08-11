@@ -82,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path:\"收藏知识库/\" ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,8 +103,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -224,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7567d839a9289ff8",
+  "active": "557b8812d0b45049",
   "lastOpenFiles": [
     "收藏知识库/Oh My Codex 快速使用指南 - 技术栈.md",
     "收藏知识库/Superpowers 详细用法教程.md",
