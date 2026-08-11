@@ -4,24 +4,53 @@
     "type": "split",
     "children": [
       {
-        "id": "dc2b7dbe14031f35",
+        "id": "bb80297a8447ef23",
         "type": "tabs",
         "children": [
           {
-            "id": "1f13b8fd12bc6a77",
+            "id": "65fbf4d19d06db5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "收藏知识库/win agent-md.md",
+                "file": "收藏知识库/Java 开发者 Python 对照学习计划.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Java 开发者 Python 对照学习计划"
+            }
+          },
+          {
+            "id": "01d4c604b67f9ec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收藏知识库/节省Token的8种方案.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "节省Token的8种方案"
+            }
+          },
+          {
+            "id": "aa006785ef53defc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "收藏知识库/Python 判空避坑：为什么必须用 is None 而非 == None.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "win agent-md"
+              "title": "Python 判空避坑：为什么必须用 is None 而非 == None"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,9 +70,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTime",
-                "autoReveal": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -55,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:\"收藏知识库/\" ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +103,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -158,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ai-output/多-Agent-协作与-subagent-拆分判断.md",
+                "file": "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "多-Agent-协作与-subagent-拆分判断 的大纲"
+              "title": "节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金 的大纲"
             }
           },
           {
@@ -182,7 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.296875
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,58 +221,35 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1f13b8fd12bc6a77",
+  "active": "7567d839a9289ff8",
   "lastOpenFiles": [
-    "收藏知识库/Pi + DeepSeek-v4-Flash，这用着也太爽了。各位小伙伴们大家好，我是 cxuan。 今天我们来聊一下 - 掘金.md",
-    "收藏知识库/不再拆机飞线：借助 ACC 实现旧手机直供电「改造」 ｜ 少数派会员 π+Prime.md",
-    "收藏知识库/Spring Boot 4.0官宣：弃用 Undertow - 知乎.md",
-    "收藏知识库/驾驭AI Coding：一份面向团队的Harness Engineering落地规范.md",
-    "ai-output/多-Agent-协作与-subagent-拆分判断.md",
-    "收藏知识库/win agent-md.md",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/cover.jpg",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-20.png",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-19.gif",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-18.png",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-17.png",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-16.png",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-15.png",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-14.png",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-13.png",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering/image-12.png",
-    "收藏知识库/assets/驾驭AI-Coding-Harness-Engineering",
-    "收藏知识库/assets",
-    "收藏知识库/千万条数据，1万QPS的实现方案 - 民工黑猫 - 博客园.md",
-    "收藏知识库/多 Agent 协作不是多开几个窗口：什么时候该拆 subagent，什么时候不该拆 - 知乎.md",
-    "ai-output",
-    "wiz/dxy/init/telepresence.md",
-    "收藏知识库/男大学生改造——【皮肤篇】丨海外工学博士亲身教男士怎样护肤！如何KO痘痘、痘印、黑头——变帅！ - 知乎.md",
-    "收藏知识库/走进 AI Agent如果你刚接触 AI Agent，可能会觉得这个概念既熟悉又陌生——熟悉是因为到处都在谈论，陌生是因 - 掘金.md",
-    "收藏知识库/如何让 AI 快速搭建一套生产 Agent ？全面理解 Agent 架构。.md",
-    "收藏知识库/一种适合程序员的 Agent 协作方式的实践 - LibraJM - 博客园.md",
-    "收藏知识库/铁王座的裂痕：为什么分布式协调之王 ZooKeeper 正在被无情替代？ - 知乎.md",
-    "收藏知识库/agent记忆系统如何设计？ - 知乎.md",
-    "收藏知识库/agent记忆系统如何设计？ - 小林coding 的回答.md",
-    "wiz/开发工具.md",
-    "wiz/dxy/init/无标题 (3)--82f9e59a.md",
-    "wiz/dxy/init/无标题 (2)--eefc00dd.md",
-    "wiz/dxy/init/无标题 (3)--acb89a45.md",
-    "wiz/dxy/init/24技能.md",
-    "wiz/dxy/init/常用.md",
-    "wiz/dxy/init/课程.md",
-    "收藏知识库/一种适合程序员的 Agent 协作方式的实践.md",
-    "wiz/dxy/init/项目重启日志.md",
-    "wiz/dxy/init/需求.md",
-    "wiz/dxy/init/attachments",
-    "wiz/dxy/init",
-    "wiz/dxy",
-    "收藏知识库/当所有人都在用 TS",
-    "未命名 1.base",
-    "wiz/开发工具/attachments/a9eb00bb-8fa5-4195-a017-94985db98d32",
-    "wiz/开发工具/attachments",
-    "未命名.canvas"
+    "收藏知识库/Oh My Codex 快速使用指南 - 技术栈.md",
+    "收藏知识库/Superpowers 详细用法教程.md",
+    "收藏知识库/程序员逼格拉满！ccstatusline：让你的 Claude Code 状态栏直接封神！.md",
+    "收藏知识库/节省Token的8种方案.md",
+    "收藏知识库/OpenSpec框架实现原理源码级剖析OpenSpec 的核心在于 Artifact Graph，将文档创建过程建模为有 - 掘金.md",
+    "收藏知识库/Codex windows版安装包下载和安装教程（Windows无法微软商店下载解决方法）.md",
+    "收藏知识库/节省Token的8种方案前言 最近有球友问：“三哥，我们团队在做AI客服，对话一长token消耗扛不住。有没有一种方案， - 掘金.md",
+    "收藏知识库/软件人员可以关注的 Skill，亲测确实不错，值得试一下.md",
+    "收藏知识库/Java vs Python 深度对照学习手册.md",
+    "收藏知识库/Python 判空避坑：为什么必须用 is None 而非 == None.md",
+    "收藏知识库/Java 开发者 Python 对照学习计划.md",
+    "收藏知识库/Text-to-SQL与智能问数完全指南：基本概念、核心原理、Python实战教学及企业项目落地-CSDN博客.md",
+    "收藏知识库/Obsidian通过github实现同步（Obsidian Git） - 知乎.md",
+    "收藏知识库/Obsidian通过github实现同步（Obsidian Git）.md",
+    "收藏知识库/(99+ 封私信 ",
+    "收藏知识库/JDK25已来，为何大多公司仍在JAVA8？第一章：JDK 25 都发了，为什么大家还在 Java 8 JDK 25 发 - 掘金.md",
+    "欢迎.md",
+    "未命名1 1.base",
+    "2026-04-20.md",
+    "未命名.base",
+    "收藏知识库/🔥从聊天到干活：三分钟搞懂 LLM、Agent、RAG、Skill面试官-现在大家聊的 LLM、Agent、RAG、F - 掘金.md",
+    "收藏知识库/零成本部署AIStudio反代 - CLIProxyAPI.md",
+    "未命名.canvas",
+    "收藏知识库",
+    "Clippings"
   ]
 }
