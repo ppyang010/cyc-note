@@ -36,3 +36,24 @@
 - 如果有些时候外网连不上去，你可以先尝试使用镜像之类的，如果不行，也可以使用一个本地的代理端口：http://127.0.0.1:7890
 ```
 ## 想法
+
+
+
+```text
+## Windows Shell
+
+- 在 Windows 环境中，所有 PowerShell 命令必须使用 PowerShell 7（`pwsh`）。
+- 禁止使用旧版 Windows PowerShell（`powershell.exe`）。
+- 首次执行命令前，使用以下命令确认版本：
+  `pwsh -NoLogo -NoProfile -Command '$PSVersionTable | Select-Object PSVersion, PSEdition'`
+- 验证结果必须满足：
+  - `PSEdition` 为 `Core`
+  - `PSVersion.Major` 大于或等于 `7`
+- 当前 Shell 已经是 PowerShell 7 时，直接执行 PowerShell 命令，不要再次嵌套 `pwsh -Command`。
+- 从其他 Shell 调用 PowerShell 时，使用：
+  `pwsh -NoLogo -NoProfile -NonInteractive -Command "..."`
+- 对包含变量、多行逻辑或复杂引号的命令，优先写入临时 `.ps1` 文件，再通过：
+  `pwsh -NoLogo -NoProfile -NonInteractive -File <script.ps1>`
+  执行，避免多层引号和变量提前展开。
+- PowerShell 脚本使用 UTF-8 编码，不依赖 Windows PowerShell 5.1 专属行为。
+```
