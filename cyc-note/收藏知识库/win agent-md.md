@@ -57,3 +57,41 @@
   执行，避免多层引号和变量提前展开。
 - PowerShell 脚本使用 UTF-8 编码，不依赖 Windows PowerShell 5.1 专属行为。
 ```
+
+
+2222
+在本站别人那抄来的适用于 codex 的 [AGENTS.md](http://agents.md/) ，自己略微改了一下，其它 agent 改改也能用：  
+  
+```  
+## Windows 约束  
+**当前环境是 Windows 10 / pwsh7**  
+- 默认禁止使用 Bash 语法，除非确定此 shell 处在 Linux 环境  
+- 不要使用 Bash 引号/转义习惯，在 PowerShell 命令里，复杂正则优先用单引号包裹。  
+- 如果正则本身同时包含单引号和双引号，优先拆成多个简单 rg 命令。  
+- 执行多行 Python 禁止使用 Bash heredoc ；改用 PowerShell here-string | python -  
+- pwsh 中，语句块表达式（如 `foreach`、`if`）不能直接作为管道输入。 需要先使用 `$()` / `@()` 包裹，或先赋值给变量。 普通命令输出可直接进入管道，无需额外包裹。  
+- PowerShell 使用 `rg` 时，通配目录必须先用 `Get-ChildItem -Filter` 展开为真实路径，禁止直接把含 `*` 的搜索路径传给 `rg`。  
+```
+
+
+
+
+凑活用吧。安装 PowerShell7 和 RG 。 然后全局 [AGENTS.MD](http://agents.md/) 里加入以下内容  
+  
+```  
+## Windows 与命令执行  
+  
+- Windows 环境使用当前 PowerShell 7 ；不得调用 `powershell.exe`（当前机器会降级到 Windows PowerShell 5.1 ）。除非任务明确要求，不嵌套调用 `pwsh.exe`、`cmd.exe`、Git Bash 、WSL 或其他 shell 。  
+- 确需启动独立 PowerShell 7 进程时，使用 `pwsh.exe -NoLogo -NoProfile`，避免加载用户 profile 注入额外命令与配置。  
+- 直接使用 PowerShell 语法；避免 Unix 命令及 `cat`、`find`、`where` 等含义不明确的别名或同名程序。  
+- PowerShell 字符串和正则在无需变量展开时使用单引号；需要展开时使用双引号，相邻字符有歧义时写 `${name}`。双引号字符串内使用反引号而非反斜杠转义。  
+- 多行文本使用 PowerShell here-string ，不使用 Bash heredoc （`<<EOF`）。  
+- 将 `foreach`、`if` 等语句块的输出接入管道时，使用 `& { ... } | ...` 包裹，不直接在 `}` 后接 `|`。  
+- 命令失败时先检查命令、路径、引号及退出码，不随意切换 shell 。  
+  
+## 检索  
+  
+- 文本检索优先使用 `rg`，文件枚举优先使用 `rg --files`，按文件名查找使用 `rg --files | rg`。  
+- 不把含 `*` 的路径直接作为 `rg` 的 PATH 参数；文件类型筛选使用 `-g`，目录通配先用 `Get-ChildItem -Directory -Path` 展开为 `FullName` 后再传给 `rg`。  
+- `rg` 不可用时，使用 PowerShell 的 `Get-ChildItem` 和 `Select-String`；如需安装工具，先征求用户同意。  
+- `rg` 退出码 `1` 表示没有匹配结果，不视为执行错误。
