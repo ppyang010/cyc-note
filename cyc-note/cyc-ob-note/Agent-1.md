@@ -46,3 +46,21 @@ self.messages.append({
     "content": result,
 })
 ```
+
+
+
+## 每个 agent 只认自己那套工具
+
+  
+
+注意上面用的是 `self._tool_by_name`，它在构造函数里建好：
+
+```python
+
+self._tool_by_name = {t.name: t for t in self.tools}
+
+```  
+
+是一个实例级的字典，不是全局表。这件事在主 agent 上看不出差别，但在[子 agent](05-parallel-and-subagents.md) 上很关键：主 agent 派生子 agent 时，会把工具集裁掉一部分（比如不让子 agent 再去开孙子 agent）。如果工具查找走的是全局表，这个裁剪就形同虚设，子 agent 还是能叫出被禁的工具。实例级字典保证了「这个 agent 能用哪些工具」是它自己的事，谁也越不过去。测试 `test_agent_tool_scope_is_per_instance` 盯的就是这个：一个只给了 `read_file` 的 agent，去叫 `bash` 会得到 `unknown tool 'bash'`，哪怕 `bash` 是个真实注册过的工具。
+
+ps:派生子agent的时候可以管控子agent的工具
