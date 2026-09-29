@@ -31,6 +31,7 @@
 | 二试∪测试卷 | 9/11 等 | `v71-second-test-to-dev-20260924` | 5,314 | ✅ | ✅ | ✅ | ✅ | INSERT 5,312 / UPDATE 2 |
 | 2026 执业还原真题 | 9 | `v71-zhizhi9-2026-prd-20260910` | 311 | ✅ | — | UAT 源 | ✅ | 全 INSERT |
 | 2026 助理还原真题 | 11 | `v71-zhuli11-2026-prd-20260910` | 244 | ✅ | — | UAT 源 | ✅ | 全 INSERT |
+| 主治 2026 Excel 还原真题 | 60–65/68/90/92 | `v71-zhuzhi-2026-excel-20260929` | 1,105 题 / 995 解析 | ❌ | ❌ | ✅ | ✅ | 先导题再解析，全 INSERT |
 | isCorrectOption 定点修 | 3 题 | `v71-fix-option-flags-3q-20260924` | 3 | ✅ | ✅ | ✅ | ✅ | 改标，非新题 |
 | optionText 定点修 | 5 题 | `v71-fix-option-text-5q-20260924` | 5 | ✅ | ✅ | ✅ | ✅ | 改文案，非新题 |
 
@@ -123,8 +124,10 @@
 |---|---:|---|
 | 执业 9 | 311 | 全 INSERT，复核 SKIP |
 | 助理 11 | 244 | 全 INSERT，复核 SKIP |
+| 主治 Excel 还原真题 | 1,105 题 / 995 解析 | 先导题（批次 5213–5221）再解析，全 INSERT，复核 995 SKIP |
 
-产物：`output/v71-2026-prd-sync-20260910/`
+主治 Excel 产物：`output/v71-zhuzhi-2026/{uat,prd}-import/`。回滚档：`prd-import/ROLLBACK.md`。
+执业/助理产物：`output/v71-2026-prd-sync-20260910/`
 
 ### 3.4 西综 30（2010–2026）
 
@@ -150,5 +153,6 @@ PRD 已导入约 **2,629 / 2,917**（覆盖约 90%），缺口约 288 题（不�
 | 选项标记 | `output/v71-fix-option-flags/` |
 | 选项文案 | `output/v71-fix-option-text/` |
 | 2026 执助 | `output/v71-2026-prd-sync-20260910/` |
+| 主治 2026 Excel | `output/v71-zhuzhi-2026/{uat,prd}-import/` |
 
 Obsidian 副本：`cyc-note/cyc-note/ai-output/v71-push-ledger.md`（与本文件同步）。
