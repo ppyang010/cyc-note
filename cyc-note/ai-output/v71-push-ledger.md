@@ -3,7 +3,7 @@
 - 身份一律 `question_body.id`，不用 `question.id`
 - 同步顺序：CHECK → CONFLICT 收集 `expectedTargetGenerationBatchNo` → 带 map 再 CHECK → APPLY → 复核 SKIP
 - 本文件是**总表**。各批次明细仍在 `exam_ai_data/output/<任务>/` 的 `PUSH_LEDGER.md` / `apply-summary.json`
-- 更新：2026-09-29（43–48 首轮已写本地+DEV；不足/冲突扩资料重跑中）
+- 更新：2026-09-30（外科学公用 60 已写本地+DEV；UAT/PRD 未推）
 
 ## 环境
 
@@ -27,6 +27,7 @@
 | 妇产/儿科/全科 首轮 | 90/91/92 | `v71-zhuzhi90-91-92-basic-20260928` | 16,704 | ✅ | ✅ | ❌ | ❌ | **新解析**（口径内 PRD 原 0） |
 | 妇产/儿科/全科 补材料 | 90/91/92 | `v71-zhuzhi90-91-92-retry-20260928` | 2,755 | ✅ | ✅ | ❌ | ❌ | **新解析**（相对首轮增量） |
 | 心血管～内分泌 基础题库 | 43–48 | `v71-zhuzhi43-48-basic-20260928` | 11,403 | ✅ | ✅ | ❌ | ❌ | **新解析**（口径内 PRD 原 0） |
+| 外科学公用 基础题库 | 60 | `v71-zhuzhi60-basic-20260930` | 5,834 | ✅ | ✅ | ❌ | ❌ | **新解析**（口径 7,236；DEV INSERT 5,503 / UPDATE 331） |
 | 血液/结核/传染/风湿 | 49–52 | — | — | — | — | — | — | **按指令不跑** |
 | 二试∪测试卷 | 9/11 等 | `v71-second-test-to-dev-20260924` | 5,314 | ✅ | ✅ | ✅ | ✅ | INSERT 5,312 / UPDATE 2 |
 | 2026 执业还原真题 | 9 | `v71-zhizhi9-2026-prd-20260910` | 311 | ✅ | — | UAT 源 | ✅ | 全 INSERT |
@@ -86,6 +87,17 @@
 | 分口 | 43 心血管 2,191 / 44 呼吸 2,102 / 45 消化 2,138 / 46 肾内 1,796 / 47 神经内 1,683 / 48 内分泌 1,493 |
 | 产物 | `output/v71-zhuzhi43-48-basic/merged-supported/` |
 | 扩资料重跑 | 不足 3,337 + 冲突 309 = **3,646**；批次 `v71-zhuzhi43-48-retry-20260929`；2 路 DeepSeek 进行中 |
+
+### 1.5 外科学公用 60（本轮完成）
+
+| 项 | 值 |
+|---|---|
+| 范围 | PRD 7,236 小题（基础题库 + 有效题 + 有效目录） |
+| 首轮 supported | **5,834（80.6%）** → 本地 + DEV |
+| 仍不足 / 冲突 | 1,225 / 177 |
+| DEV | INSERT 5,503 / UPDATE 331；复核 **5,834 SKIP**（2026-09-29 22:29 UTC） |
+| 产物 | `output/v71-zhuzhi60-basic/merged-supported/` |
+| 批次 | `v71-zhuzhi60-basic-20260930` |
 
 ## 2. 生成中，尚未入库
 
@@ -149,6 +161,7 @@ PRD 已导入约 **2,629 / 2,917**（覆盖约 90%），缺口约 288 题（不�
 | 42 | `output/v71-zhuzhi42-basic/` |
 | 90/91/92 | `output/v71-zhuzhi90-91-92-basic/` |
 | 43–48 | `output/v71-zhuzhi43-48-basic/` |
+| 60 外科学公用 | `output/v71-zhuzhi60-basic/` |
 | 二试+测试卷 | `output/v71-sync-second-test-to-*` |
 | 选项标记 | `output/v71-fix-option-flags/` |
 | 选项文案 | `output/v71-fix-option-text/` |
