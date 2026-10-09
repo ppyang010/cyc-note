@@ -3,7 +3,7 @@ title: "你用AI编程用到什么深度了？—Van Bruce 的回答"
 author: "Van Bruce（用户提供；页面当前显示为知乎用户）"
 type: zhihu-answer
 source: "https://www.zhihu.com/question/7846282477/answer/2091288686965146253"
-downloaded: 2026-10-08
+downloaded: 2026-10-09
 tags:
   - AI/编程
   - 学习方法
@@ -13,7 +13,7 @@ tags:
 # 你用AI编程用到什么深度了？
 
 > [!info] 来源
-> [知乎回答](https://www.zhihu.com/question/7846282477/answer/2091288686965146253) · 保存日期：2026-10-08。
+> [知乎回答](https://www.zhihu.com/question/7846282477/answer/2091288686965146253) · 保存日期：2026-10-09。
 > 分享信息署名为 Van Bruce，读取时页面显示“知乎用户”。以下为正文摘要，非全文转载；作者的实践与引用未独立核验。
 
 ## 核心观点
@@ -46,4 +46,4 @@ AI 可以快速生成能运行的代码，但理解失效条件、定位问题�
 
 ## 相关笔记
 
-[[为什么现在大多 Code Agent 的主形£态是 CLI-TUI？-修远客的回答]]
+[[为什么现在大多 Code Agent 的主形态是 CLI-TUI？-修远客的回答]]
