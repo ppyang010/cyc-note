@@ -1,6 +1,7 @@
 ---
 title: "jdk21到jdk25，为什么基本没见java圈对虚拟线程有什么热度，还在抱在老一套线程池？"
 author: "三界小书生"
+summary_model: "gpt-6.1-sol"
 type: zhihu-answer-note
 source: "https://www.zhihu.com/question/1963249539436766749/answer/2093631769111163960"
 site: "知乎"
@@ -25,6 +26,7 @@ aliases:
 
 > [!info] 来源与整理范围
 > - **作者**：三界小书生。
+> - **总结模型**：`gpt-6.1-sol`（通过 DeepSeek Harness 整理）。
 > - **原文**：[知乎回答](https://www.zhihu.com/question/1963249539436766749/answer/2093631769111163960)。
 > - **整理日期**：2026-10-14；本次读取未提取到可靠的原文发布、修改时间。
 > - **记录方式**：先提炼作者观点，再用 OpenJDK 官方文档核对关键技术事实；末尾保留目标回答原文，不混入推荐回答。
