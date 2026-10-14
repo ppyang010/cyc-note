@@ -17,6 +17,13 @@
         "type": "FILES_AND_DIRECTORIES",
         "pattern": "",
         "patternType": "WILDCARD"
+      },
+      {
+        "name": "",
+        "active": true,
+        "type": "FILES",
+        "pattern": "cyc-ob-note/DSH插件清单.md",
+        "patternType": "STRICT"
       }
     ],
     "frontMatter": [
