@@ -9,8 +9,9 @@ aliases:
   - changedetection.io
   - 网页盯盘外挂
 summary_model: DeepSeek-V4.1-Flash
-source_type: 微信公众号短图文
-author: 公众号原文（未署名，标题缺失）
+source_type: 微信公众号图片消息
+author: 公众号「zippic」
+original_title: 不少搞监控降价、抢票和抓羊毛的佬都在偷着用这个工具
 source: https://mp.weixin.qq.com/s/-4OpvCLZiKKYnvNtvuocdw
 published: 2026-08-06
 ---
@@ -18,9 +19,9 @@ published: 2026-08-06
 # changedetection.io：网页变动监控工具速览
 
 > [!abstract] 来源与整理说明
-> 原文为一条微信公众号短图文（发布地广东，8月6日），原文标题在页面中缺失，此处标题为按内容拟定。
-> **总结模型：DeepSeek-V4.1-Flash**；提取方式：正文与排版原样提取，未经改写。
-> 原文为纯文字（**无任何配图**，`imageCount = 0`，也没有视频/音频组件），因此本笔记没有图片可嵌。
+> 原文是公众号「zippic」的一条微信**图片消息**（发布地广东，8月6日），原文标题为《不少搞监控降价、抢票和抓羊毛的佬都在偷着用这个工具》，本笔记标题为按内容重拟。
+> **总结模型：DeepSeek-V4.1-Flash**；正文按原文提取，未经改写。
+> 这类「图片消息」的正文图不在 `#js_content` 里，提取脚本的 `imageCount` 会误报为 0；图是我事后从渲染后的页面补下的，已存本地 `ai-output/assets/changedetection-io/01.png`。
 > 原文为推荐性质的短文，未提供实测数据；文中 Star 数、模型支持等均为作者转述，未逐项核实。
 
 ## 目录
@@ -36,6 +37,9 @@ published: 2026-08-06
 `changedetection.io` 是一个已获 **32.6k Star** 的开源网页变动监控工具，原文称之为"全网网页盯盘外挂"。
 
 它的基本逻辑很朴素：盯住某个网页，只要内容变动哪怕一个字，就推送通知。真正的差异在于——新版直接接了 AI（支持 **GPT-4o-mini**、**Ollama 本地大模型**），不再只报"网页变了"，而是能归纳出"降了 50 块""新增了某某功能"这类结论，并且可以用自然语言写规则来过滤噪音。
+
+![[ai-output/assets/changedetection-io/01.png]]
+*原文配图 · 官网首页截图（RELEASE v0.55.8 / DOCKER PULLS 11M / LICENSE Apache-2.0）。图中演示的是「Add a new web page change detection watch」：填入 URL 后可选 **Restock & Price**（单品补货+降价）或 **Webpage Text/HTML, JSON and PDF changes** 两种模式；下方列表逐条列出监控项、当前价格、上次检查时间，右侧是 Recheck / Edit / Preview 操作。*
 
 ## 二、五项核心能力
 
